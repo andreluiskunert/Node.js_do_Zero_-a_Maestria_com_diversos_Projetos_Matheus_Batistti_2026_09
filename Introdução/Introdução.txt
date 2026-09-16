@@ -1,0 +1,179 @@
+Fala galera beleza sejam bem vindos ao curso de novo GS do zero a mais teria como nome disto e aprender
+
+desde absolute zero sem qualquer conhecimento prévio no GS até a maestria criando projetos profissionais
+
+com os recursos mais utilizados hoje em dia.
+
+Esse curso é totalmente focado no mercado de trabalho então a ideia de disseminar também além dos conhecimentos
+
+no jazz as boas práticas incentivar os testes de aplicação fortalecer a parte de negócios para vocês
+
+conseguirem também planejar seus sistemas.
+
+Então o curso totalmente Foster que começa lá na análise do levantamento de requisitos ele tem que entender
+
+o que ele está fazendo para poder aplicar em código e desenvolver aplicações completas e complexas em
+
+New Jazz.
+
+O curso vai abordar diversos temas que são paralelos ao nude como o Expresso frame mais utilizado hoje
+
+em dia como jazz e aprender a integrar o lote com bancos relacionais com mais Kelly e também com não
+
+relacionais como um bebê utilizando frameworks para agilizar o nosso desenvolvimento com eles como RMS
+
+sequelas e o DM uma use.
+
+Enfim ferramentas que vão proporcionar para gente obviamente mais conciso mais objetivo focado na regra
+
+de negócios da aplicação.
+
+Ele também vai aprender arquitetura MVC para poder estruturar melhor essas aplicações e deixá las mas
+
+manter níveis que gente consiga prosseguir criando novos recursos de uma forma organizada e bem estruturada.
+
+Também teremos tópicos como template engine correndo renda baixo para fazer aplicações como no jazz
+
+que tem um viés dinâmicas e é claro a gente vai trabalhar na parte em para poder criar aplicações de
+
+noite que se comunicam com times acoplado da aplicação.
+
+Então ele vai criar aplicações como monolítico que contém a viu os controladores os modos tudo no mesmo
+
+servidor digamos assim e as separadas que o front fica separado B quem vai criar aplicações que é Kit
+
+para poder ter exercitando essa parte.
+
+E também claro testando aplicações com o para entender como funciona o front e o back end de forma separada.
+
+Para fazer esse curso não precisa de qualquer conhecimento prévio no jazz vou te ensinar desde o básico
+
+mesmo tudo o que tu precisas alicerce para poder programar bem em Notch inclui não só a parte web mas
+
+sim o Now jazz puro que socorre modos de aprender e criar aplicações sem a utilização de frames to terça
+
+parte geralmente é puxada por quem começa a programar em nome que já vai programando para a web sem
+
+entender a base.
+
+Então aqui vai tudo isso para que tudo tenha um sólido alicerce uma base bem fundamentada e consiga
+
+aí sim criar aplicações avançadas com o seu próprio conhecimento e aprender todos os assuntos de forma
+
+teórica e prática costuma mesclar bastante isso pra gente entender de fato o que ele está fazendo e
+
+depois aplicar isso diretamente no código então o teu entendimento vai ser muito otimizado.
+
+Por meio dessa didática é claro em diversos projetos esse curso aqui está recheado deles.
+
+Basicamente cada recurso a gente aprende a criar um mini projeto para poder contextualizar na vida de
+
+um desenvolvedor web como ele trabalha no dia a dia nas empresas.
+
+Então é isso que ele entendeu mesmo é criar aplicações do zero desde a concepção até o depois até estarem
+
+completos para serem disponibilizadas para usuários acessarem e ver HTML CSS e vai trabalhar com a regra
+
+de negócios como é que indico a integração com o banco de dados aplicando arquitetura MVC.
+
+Enfim está super completo para aprender tudo o que utiliza hoje na indústria de software.
+
+Além disso o curso conta com várias sessões extras galera que é importante entender como o programa
+
+como jazz não vai ter utilizando só ele vai estar utilizando várias tecnologias também paralelas como
+
+HTML e CSS.
+
+Então eu preparei diversas sessões onde tu vai poder melhorar o teu conhecimento nelas.
+
+Então por isso que eu falei antes não preciso de conhecimento prévio.
+
+Você não entende de banco de dados eu vou te dar sessões de esqueleto de Mongo bebê base para ter esse
+
+fundamentos também não manja muito diretamente CCS não tem problema a gente vai ter sessões de fundamentos
+
+então vai ter projeto com HTML CSS.
+
+Enfim tem muito conteúdo para poder se especializar nas tecnologias que estão rodando em paralelo no
+
+jazz que é super importante também pra gente ser um desenvolvedor.
+
+Os.
+
+Então no fim do custo está apto a criar projetos completos com o jazz seja ele monolítico com aquela
+
+que eu falei que ficam todas as frentes no mesmo servidor desde o front até o Back como também separados
+
+via hippie e front como Bill Gates trabalhando também na arquitetura MVC.
+
+Tudo que é mais utilizado no mercado de trabalho e isto vai conseguir fazer quanto terminar.
+
+Esse curso é Eu sou o Mateus Batista tutor que vai te acompanhar desde o começo até o fim do curso de
+
+ajudante orientando aí também no fórum de perguntas e respostas.
+
+Trabalho com desenvolvimento web há mais de seis anos principalmente envolvendo ecommerce.
+
+E como de resto também trabalhou com micro serviços quero te fazer um convite à próxima do curso também
+
+está liberada.
+
+Ela contém apresentação detalhada desse curso ou seja eu vou te mostrar passo a passo em sequência o
+
+que tu vai aprender.
+
+Esse projeto vai criar um interessante para quem quer entender o curso uma visão mais macro e também
+
+micro em TI observando cada tópico porque eles são importantes em seu aprendizado para conseguir ter
+
+um desenvolvedor no jazz.
+
+Então fiz o convite a ela está liberada dá uma olhada lá que com certeza vai entender o propósito desse
+
+curso.
+
+Como é quanto tu vai aprender com ele.
+
+Quero reiterar que esse é o último custa fazer de novo essa sua vida.
+
+Não tem como.
+
+Só não vai aprender quem não quer.
+
+é isso que dizem os meus alunos na plataforma.
+
+Na maioria dos cursos a minha nota é 4 e-mail para cima que no máximo de 5.
+
+Então a satisfação é garantida.
+
+Estão gostar também tem a garantia de 30 dias é tudo bem mas eu garanto que tu vai aprender um novo
+
+Jazz com esse curso ficar tranquilo até porque o curso é mão na massa toda hora galera.
+
+Desde a primeira aula até o último a gente vai estar programando gente vai estar criando coisas reais
+
+palpáveis para tu poder medir também o teu conhecimento.
+
+Desde quando chegou na primeira aula até quando saiu na última da conclusão desse curso é claro.
+
+O curso contém atualizações sempre sai uma versão nova por exemplo uma funcionalidade muito interessante
+
+a gente vai poder aplicar em projetos do outro atualizar esse curso periodicamente para poder aprender
+
+também.
+
+Então o curso aí é vivo ele não está finalizado agora ele vai estar sempre ganhando novas atualizações
+
+e novos recursos.
+
+Então pra ti que já se decidiu eu espero para aprender no jazz já na próxima hora de colocar a mão na
+
+massa e aprender muito sobre essa tecnologia está sendo muito utilizada também nos dias de hoje.
+
+No web ele contou que decidiu fica o ouvinte novamente para poder fazer essa próxima aula e entender
+
+melhor detalhadamente como vai funcionar o curso.
+
+Beleza Espero todos vocês lá.
+
+Vejam vocês na.

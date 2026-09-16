@@ -1,0 +1,359 @@
+Fala galera beleza.
+
+Primeiramente muito obrigado por aceitarem o meu convite para conhecer mais sobre custo de estos era
+
+mais.
+
+A ideia dessa aula aqui é apresentar todas as sessões do curso como ele foi dividido.
+
+Qual é o passo a passo que tu vai seguir para poder aprender nude da maneira certa do básico ao avançado.
+
+Beleza então como se podem ver isso aqui é o mapa mental do curso que eu utilizei para o planejar enquanto
+
+estava produzindo ele.
+
+Ele conta todas as sessões e todos os projetos que serão abordados no lançamento do curso.
+
+Então pode ser que futuramente tenha mais tópicos mas a gente vai começar a considerar que é como se
+
+poderá ver também.
+
+Ele é bem amplo.
+
+Então vamos aqui começar com o lado esse.
+
+O que acontece é que vai ter sessão de introdução que vai fazer essa sessão aqui.
+
+Ele vai conhecer os principais aspectos do nude e esta gente vai aprender a estar lá ele vai aprender
+
+a criar o nosso primeiro programa e rodar esse programa.
+
+Então a ideia é que a gente consiga instalar em diversos sistemas operacionais que você deixar todo
+
+mundo na mesma página e já dá um primeiro mergulho no que é o nu jazz.
+
+Depois a gente vai para os fundamentos os recursos essenciais para conseguir aprender o jazz da melhor
+
+forma possível.
+
+Eu falar de módulos externos e internos como módulos maneiras de execução e scripts enfim todos os assuntos
+
+do alicerce que formam um alicerce de conhecimento do jazz.
+
+Hoje em dia ele está muito acostumado de participar com Express da vida.
+
+Vou fazer uma pilha que se parece com Floyd Red e a gente acaba pulando esse fundamental do nude que
+
+é onde começa a girar as dúvidas aonde a galera se pega para aprender e depois.
+
+Então na minha concepção é muito melhor que a gente aprenda isso agora parece é a parte mais sem graça
+
+digamos assim.
+
+Mas é o que envolve um time de JavaScript e o que realmente vai proporcionar a criar uma aplicação web
+
+complexa.
+
+Nada mais vai ser do que utilizar esses pacotes aqui que vêm direto com o nome de uma forma mais distraída
+
+em outros pacotes externos.
+
+E aí que vai dar um foco na Seção 3 com módulos de novo.
+
+Para quem não conhece são os módulos internos os módulos que vêm junto dele ou seja a gente pode utilizar
+
+em qualquer arquivo sem instalar nada.
+
+Eles estão prontos para uso.
+
+E isso aqui é fundamental também porque até em programas completos como falei a gente vai estar utilizando
+
+eles porque eles quebram um galho em diversas áreas como trabalhar com arquivos leitura escrita diretórios
+
+com RL que a gente recebe requisição do cliente.
+
+A gente pode até fazer um servidor HTTP com os modos que a gente tem à disposição.
+
+E aí a gente começa a avançar e a gente vai pra onde e os fundamentos do MPM que é o gerenciador de
+
+pacotes de estão aqui ainda aprender a criar projetos MPM e instalar pacotes externos atualizar os pacotes
+
+que a gente possui.
+
+Criação de scripts.
+
+Então vai ser muito interessante porque está por vir porque uma aplicação complexa como ela requer diversos
+
+pacotes externos então a gente vai aprender todos os fundamentos do recurso aqui para poder criar aplicações
+
+de uma forma mais simples futuramente.
+
+Então a gente vai para o nosso primeiro projeto onde a minha ideia aqui foi ensinar no de uma maneira
+
+diferente do que está acostumado de ver por aí.
+
+A gente não vai sair criando um site com um novo Express sequelas maluco beber e ficas todos aparatos
+
+já primeiramente virá um projeto que vai trabalhar exclusivamente com o Now.
+
+Ele vai ser executado no terminal mostrar que para vocês galera estou aqui com a pastinha aberta do
+
+projeto já pronto.
+
+é aqui que vai rodar um script chamado In My Start com ele começa o nosso projeto Cacau.
+
+Esse cara que basicamente simula contas de banco então gente pode estar criando uma conta consultando
+
+saldo depositando sacando ou sair que seria para agilizar o sistema.
+
+E tudo isso aqui vai fazer baseado o que a gente aprende com o nome de puro certo e alguns poucos módulos
+
+existentes e que vai reunir diversos conhecimentos desse cara que vão preparar gente para futuras operações
+
+com o jazz.
+
+Então vou dar uma demonstração simples para vocês.
+
+Vou criar uma conta aí ele dá a mensagem de parabéns e tem definir uma conta ou botar na conta do Pedro
+
+por exemplo.
+
+é aí que a conta foi criada.
+
+Então se eu consulto saldo da conta do Pedro A gente recebe aqui que não tem nada.
+
+Então eu posso sair do sistema de games que eu vou usar meu sistema de contas amanhã.
+
+E agora vamos dizer o cara depositar o valor então quem depositar eu vou ter que digitar o nome da conta
+
+na conta do Pedro.
+
+Ele já identificou o erro então essa conta que não existe no sistema então ele vai ter que acertar ou
+
+escrever errado conta Pedro.
+
+Agora sim eu achei a conta pelo nome dela.
+
+Vou depositar 10 mil reais e aí a mensagem de sucesso.
+
+Se eu consigo de novo conta do Pedro eu tenho aqui um saldo de 10 mil.
+
+Posso fazer o saque também vou sacar um valor que não existe na conta.
+
+A primeira é que a conta não existe para passar o nome da conta do novo conta do Pedro sacar o valor
+
+gigante valor disponível.
+
+Então a gente vai ter aí o sistema.
+
+O pagamento é feito em noite por poder trabalhar esse alicerce que eu falei para vocês que a gente visto
+
+até sessão.
+
+E aí galera vai começar a guinada para a área web que é o principal interesse de todos vocês.
+
+Eu acredito mas agora com os alicerces bem solidificado o senhor aprendeu express que é o lema mais
+
+utilizado hoje em dia para o jazz.
+
+Ele vai ter uma introdução a ele para conseguir o a criar um mini projeto.
+
+E a gente vai evoluir isso contemplativo.
+
+Ou seja não vai conseguir deixar nossas views dinâmicas imprimindo variáveis criando adicionais loops.
+
+Então fazer parte de um processo para que a gente consiga criar projetos mais completos.
+
+Projetos que costumo acessar no dia a dia tanto que a gente vai começar a aprender integração de banco
+
+de dados com primeiramente e com mais que é banco relacional que é essa primeira etapa do curso e ainda
+
+aliado a isso a gente vai estar sempre construindo mini projetos.
+
+Quando a gente entra as sessões de banco de dados vão estar sempre construindo um projeto que não é
+
+tão complexo mas vai ajudar em todos os aspectos por exemplo de noite com mais que a gente vai seguindo
+
+ali para agora integrar uma ou RM que é como se fosse um frame de banco de dados para bancos relacionais
+
+ou sequelas criando também um mini projeto.
+
+Nesse ponto da área ele vai começar a ver o código ficando muito grande e mal organizado.
+
+Isso é proposital.
+
+A gente tem que dar valor à arquitetura de desenvolvimento de sistemas para resolver esse problema e
+
+de aprender MVC que é o modelo de controle.
+
+Aí com esse vc a gente também vai criar um mini projeto certo.
+
+A gente já vai saber diversas coisas vocês ver aqui e aprendeu o básico.
+
+Entendemos que mantém peitinho de gente que consegue já conectar com banco fazer um Cruze e a gente
+
+está trabalhando em vc.
+
+O que falta para consolidar tudo isso o projeto é criar o tal cara que é esse projeto que eu tenho que
+
+pescar e trabalhar com outros recurso que a gente não viu ainda.
+
+Por exemplo busca aprender criar uma busca e limpeza de filtros ordenação aí de resultados.
+
+Existem basicamente o seguinte a gente se cadastra e consegue inserir os nossos pensamentos no sistema.
+
+Então vou fazer uma demonstração pra vocês também.
+
+Vou registrar aqui eu consigo colocar meu nome Matheus Batista vou digitar algum e-mail teste arroba
+
+testando pontocom bota uma senha e cadastro.
+
+A gente vai ser levado a Roma mas agora tem uma mensagem de sucesso então aqui a gente viu o novo recurso.
+
+A gente aprendeu autenticação login lock out registro Flash semestres que essas mensagens aqui é claro
+
+praticar mais NBC com o crude nesse sistema que tem uma 10 por dia pode criar os nossos pensamentos
+
+editar e remover.
+
+Por exemplo aqui meu primeiro pensamento vou criar ele cai na minha 10 recebo mensagens de sucesso posso
+
+editar se eu quiser posso escolher.
+
+Mas mais importante que lá na home também agora tem um projeto meu cadastrado aqui e aí usuários vão
+
+criando esse ambiente colaborativo de pensamentos onde eles podem compartilhar o que eles quiserem.
+
+A ideia esse projeto é realmente trará tudo que a gente aprendeu até agora criando um projeto com maus
+
+profissionais.
+
+Esse excesso de Tintin O Rei do bar que se preze mas que se cria.
+
+Porém vc tem que entender que a gente consegue criar projetos com Cloud certo e aí chega a hora de avançar
+
+mais ainda.
+
+Outra coisa não utilizada pelo jazz são os bancos não relacionais que a gente vai ter cessão de mão
+
+o BB como empregado também e depois vai avançar mais ainda utilizando a ordem que causou sofrimento
+
+e habilidades para o BB que ao bom uso criando também um mini projeto.
+
+Então vai estar trabalhando com os dois mundos que seria o racional e o banco não relacional e que vai
+
+aprender as diferenças e aprender as vantagens de utilizar cada um e chega a hora de dar o próximo passo
+
+também onde ele vai entrar com IPI e quem te vai ver que a PT nada mais é do que é que isso é uma resposta.
+
+O que a gente aprendeu aqui até agora todas as sessões vai ajudar a facilitar muito esse tópico a gente
+
+vai ver que ainda conseguir aprender muito mais rápido de uma forma muito objetiva aqui e logo depois
+
+de aprender a pedir pizza vai criar um projeto completo com BC expresso que agora trabalha no modo de
+
+pensar e emitir som e mudar de status da resposta.
+
+Autenticação via token JWT é o Frontini um jegue então seria o grande projeto do curso.
+
+A gente vai estar trabalhando está.
+
+Outra coisa que a gente vai ter aqui também são os conteúdos adicionais.
+
+Muita gente reclama da certa maneira que a gente aborda outros tópicos no curso por exemplo seu curso
+
+de noite mas tem mais que isso aqui não é o curso mais querem não é antes todos os detalhes que vocês
+
+precisam para entender perfeitamente bem mais avançado digamos assim.
+
+Então diante dessas reclamações eu decidi unir o útil ao agradável e trazer recursos de outros cursos
+
+meus pés se entender pelo menos até um nível intermediário.
+
+Todos esses conceitos para o curso sabem não ficar muito grande não ficar muito maçante e a gente conseguir
+
+aparatoso as arestas que as pessoas têm nesses assuntos paralelos não são seções fundamentais.
+
+Quem te viu até 15 aqui seria o passo a passo do curso.
+
+O nosso fluxo é quem vai ter os conteúdos adicionais que eu chamei de apêndices.
+
+Tem vários toques para poder se especializar.
+
+Por exemplo uma seção para se especializar mais do MPM que é um dos assuntos do curso uma seção para
+
+trabalhar com HTML CSS.
+
+Para quem não sabe nada não vai ter problema nenhum em fazer esse curso quem vai ver tudo aqui quem
+
+tem fundamentos HTML e CSS é também um projeto para consolidar tudo isso que é esse aqui é o clone do
+
+WhatsApp Web está aqui do zero até esse resultado aqui vocês vão ficar férias também HTML CSS porque
+
+todos os projetos quem vai criar o Talks é também o nosso guia tapete que é o projeto do curso vão ter
+
+HTML CSS.
+
+Nem sei quem é mas tem.
+
+Então é bom saber por isso que colocou esse projeto de reforço.
+
+Depois a gente vai ter mais algumas sessões de mais que é para avançar mais racionais e mongo DB também.
+
+Aí sim para conseguir consolidar a experiência nesses dois caras tá na área de gerenciamento de bancos
+
+e a fundo de criação de tabelas.
+
+Tipos de dados com os estreantes e também crowd Create What Happened de elite Georgina tudo na mão.
+
+Sem recursos extras como freio ou drivers skinny que utilizou no curso que é mais que ele puro e que
+
+é um DB puro de aprender gerenciamento de bancos.
+
+O crude também só cresce cuja divide em quatro sessões de achando estranho que lance que é 4 porém não
+
+o e trabalham de maneira muito diferente do SQL não trabalha com quem já trabalha com o método.
+
+Então esses assuntos são um pouco mais complexos do que naquelas puras que todas as caras são praticamente
+
+iguais na muda a sintaxe dos comandos mas a gente tem um padrão aqui a gente foge um pouco do padrão
+
+da aplicação também.
+
+Então.
+
+São interessante ter associações dedicadas para conseguir prender esses tópicos aqui com clareza.
+
+Beleza galera e ainda por último como sempre falo com os meus cursos tem atualizações galera tento manter
+
+o padrão de atualizar duas vezes por ano para pra gente atualizar com novos tópicos que entram com as
+
+versões mais novas das linguagens dos cursos que trabalha atendendo novos projetos.
+
+é um costume que eu tenho.
+
+Então tenho compromisso também com vocês sobre atualizações sem contar o fórum de perguntas e respostas
+
+que estou sempre ativamente lá participando com a galera sugerindo tópicos de pesquisa para se avançar
+
+os exercícios do curso paralelos materiais e extras.
+
+Está muito completo o curso galera com certeza para aprender no dia que eu veja.
+
+Então agora chega a hora DISTO QUE APRENDER nordeste de verdade de uma vez por todas.
+
+Digo mais uma vez esse que é o último curso de esta tua vida.
+
+Depois só assuntos paralelos como Adonis jazz por exemplo Grace que mas são tópicos que pode adicionar
+
+aqui e que são paralelos ao jazz.
+
+Beleza então posso cantar aqui na sala de demonstração de projetos do que é o curso por completo para
+
+aproximadamente a começar.
+
+BC além do jazz então faço o convite mais uma vez tu que aprendeu jazz Bora adquiriu o curso que está
+
+esperando na próxima aula.
+
+E para quem já adquiriu espera lá pra gente aprender e se aprofundar no jazz.
