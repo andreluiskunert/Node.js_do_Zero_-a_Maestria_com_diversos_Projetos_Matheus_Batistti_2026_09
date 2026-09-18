@@ -1,0 +1,63 @@
+Ora Bora começar aqui à parte a primeira parte da sessão é um adendo nesta sessão que tem bastante teoria
+
+para estender alguns conceitos tem um pouco de setup para quem está lá o que a gente precisa.
+
+E também tem um pouco de prática pra gente já dar o nosso primeiro passo aí no norte.
+
+Beleza eu já contei como era um pouco estruturada agora é ver o que quer no jazz de forma teórica.
+
+Então mostra que ele é uma lanterna o jazz e o marrom time de JavaScript ou seja que escreve JavaScript.
+
+E como coloco aqui embaixo um compilador vai lá e entende esse código e utiliza uma linguagem de mais
+
+baixo nível para poder fazer suas execuções.
+
+Isso deixa os nossos software os nossos programas mais rápidos mais performáticos.
+
+Então isso é a própria definição lá no jazz pela documentação e uma biblioteca utilizada por um compilador.
+
+Eu boto que também está construído na V8 engine é um software do próprio Google e o próprio compilador
+
+se chama V8 engine Viet Engine e em C++.
+
+Então o que acontece a gente tem em JavaScript que vira C++ e esse é um dos motivos que torna o mod
+
+tão popular.
+
+Gente poder estar utilizando uma linguagem de alto nível que o JavaScript que é bem difundida muita
+
+gente utilizava e ainda utiliza o front end alterando o dono fazendo alguma lógica para seu Brasil da
+
+sua aplicação e agora ou não.
+
+Mas há um bom tempo vem sendo cada vez mais aderida porque o pessoal desenvolveu o Now jazz então a
+
+gente pode dizer que o Now jazz não é uma linguagem que seja biblioteca que vai pegar JavaScript e compilar
+
+em C++ para executar mais rápido nossos programas bota aqui que há a possibilidade de criar software
+
+Jazz no lado do servidor.
+
+Algo interessante porque a gente trabalha muito com o PHP Python C Sharp que são linguagens de alto
+
+nível que também executam no lado do servidor.
+
+Porém por elas serem de alto nível.
+
+A gente tem uma perda de performance então o JavaScript com grande isso pois ela é compilada e vai ter
+
+executando na verdade C++ pode ter então no código JavaScript rodando em cima C++ para gerar alta performance.
+
+Então basicamente isso é o nome é uma ponte que a gente vê JavaScript escrever o script é lá por baixo
+
+dos panos executa todo o nosso código em C++ para garantir alta performance então não é uma linguagem
+
+e sim uma biblioteca maior do time utilizada por meio de um compilador.
+
+Então esse é o conceito inicial de longe ao longo do curso a gente vai ver muito mais sobre ele mas
+
+queria dar essa esclarecida que é logo do começo para poder entender melhor do que se trata e tirar
+
+nossas dúvidas sobre o termo no dia.
+
+O tema principal.

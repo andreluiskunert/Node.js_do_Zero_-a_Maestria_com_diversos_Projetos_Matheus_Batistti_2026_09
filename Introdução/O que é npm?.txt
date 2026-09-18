@@ -1,0 +1,105 @@
+O outro carioca vai estar sempre presente ou melhor na maioria das vezes as aplicações de noite e o
+
+MP.
+
+Então a gente tem que abordar ele agora pra gente entender qual é o papel dele.
+
+Primeiramente qual é o gerenciador de pacotes do Note.
+
+Comecei a trabalhar com PHP.
+
+Geralmente usa o Composer quando está trabalhando com o Python e utiliza o Pipe e assim vai cada linguagem
+
+que roda em servidor.
+
+Costuma ter o gerenciador de pacotes para conseguir baixar bibliotecas de terceiros.
+
+Então o IGP-M é o nosso.
+
+O quinto vai utilizar o desse curso.
+
+Eu boto ainda poder utilizar bibliotecas de terceiros baixando elas pelo IGP-M e também.
+
+A maioria dos projetos que a gente vai criar em 12 meses vão ser iniciados pelo IGP-M ou está sendo
+
+gerenciados de certa forma pelo MP.
+
+Isso significa no Texas manter o gerenciador de pacotes do not.
+
+Quem bota aqui quem quer poder também executar determinados scripts do nosso programa.
+
+A gente consegue escrever ou citar um pouco mais complexo por exemplo tente descobrir o arquivo que
+
+vai iniciar a aplicação qual pode rodar e outras rotinas e cria um script para isso.
+
+E bota por meio de um comando para o empenho conseguir ativar um script com um simples comando.
+
+Ou seja vários comandos são executados por meio de um.
+
+Isso é o conceito de script do império do Bota que dificilmente um software no não utiliza o PM.
+
+E isso porque geralmente metal precisa de algum pacote por exemplo para fazer uma aplicação web.
+
+Então eu vou precisar de algo que me facilite isso sofrendo.
+
+Então geralmente a gente utiliza o expert aqui é o mais utilizado hoje em dia.
+
+Eu não vou criar um servidor do ano novo do zero.
+
+Eu posso fazer isso posso aprender os princípios as bases para criar o nosso servidor também.
+
+Claro que não tão poderoso quanto a que se parece mas a gente vai ter na ideia.
+
+Na teoria é até um pouco da prática de como a gente pode chegar a esse resultado final.
+
+A gente vai ver que espera capacitar muita gente não faz sentido a gente reinventar a roda.
+
+Por esse motivo está baixando as bibliotecas.
+
+é uma pena que vai fazer essa ponte pra gente.
+
+Eu boto que os módulos externos ficam numa parte chamada módulos.
+
+Isso é muito importante porque é uma pasta que ela é padrão em qualquer projeto de notebook vai ter
+
+essa pasta para usar o MPM e lá todas as bibliotecas do terceiro vão ficar e eu boto um conceito bem
+
+importante também.
+
+A gente vai ter um módulo de BPM que elas se preocupem até dois.
+
+Para iniciar é outro para dar um avançado no assunto.
+
+E eu boto que vai ser que a gente tem que ter independente do nosso conhecimento avançado em perigo.
+
+Tem que saber disso.
+
+Essa parte não demora a descartar ou se a gente pode deletar quando quiser essa pasta.
+
+Isso não deve influenciar no nosso projeto porque a cada instalação o projeto vai baixar todos os pacotes
+
+normalmente com um simples comando e a gente não vai alterar esse código.
+
+Além dela a sombra de outras pessoas as outras pessoas que ficam encarregadas de alterar elas totalizando
+
+disponibilizando novas versões e ainda baixando e geralmente é assim que acontecem que altera e por
+
+exemplo alguém atualize o pacote e a gente baixa atualização pode subscrever nossas operações por isso
+
+que essa parte tem que ser descartável.
+
+Então já vai colocando isso aí um bloco de notas ou na própria mente porque é algo que somente os iniciantes
+
+costumam esbarrar um pouco porque é uma pasta que tem muito mais mas a gente não precisa entender cada
+
+linha e cada um tem que saber quem instalou o nosso projeto é porque cada pasta foi trazida foi baixada
+
+tá beleza esse que eu em PM mais ou o possível tem muito detalhe pra ser visto ainda a gente vai ver
+
+também mas entendo que é um gerenciador de pacotes ele permite inicializar projetos com nome.
+
+A gente pode executar scripts e pode baixar instalar bibliotecas de terceiros de outros desenvolvedores
+
+no nosso projeto de uma maneira super simples.
+
+Embora o pessoal.
