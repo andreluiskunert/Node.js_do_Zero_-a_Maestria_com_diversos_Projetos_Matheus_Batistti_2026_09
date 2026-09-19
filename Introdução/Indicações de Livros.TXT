@@ -1,0 +1,36 @@
+Fala galera, beleza?
+
+
+Muita gente pede indicações de livros para complementar os estudos, então fiz uma curadoria para este curso e vou indicar alguns
+
+
+Primeiramente o livro que escrevi, que contém exercícios e projetos, para você dominar os fundamentos de JavaScript em mais de 100 páginas e com precinho camarada ou 0800 pelo Kindle Unlimited:
+
+
+JavaScript para Iniciantes - Aprenda a Programar JS de Forma Simples
+
+
+Outro livro de minha autoria é o:
+
+
+200 Exercícios de JavaScript: Fortaleça suas habilidades com desafios]
+
+
+Ele é inteiramente baseado em exercícios, com mais de 200, para você reforçar e aprender todos os aspectos de JS de forma prática.
+
+
+Aplicações web real-time com Node.js
+
+
+Construindo APIs REST com Node.js
+
+
+Aprendendo Node
+
+
+Todos eles complementam o conteúdo de alguma forma, para você conseguir evoluir mais rápido
+
+
+Bom estudo para vocês! 🙂
+
+
